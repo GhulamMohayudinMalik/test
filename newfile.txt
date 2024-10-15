@@ -1,0 +1,3 @@
+This is a new file added in the folder
+
+Now I added it in main branch
